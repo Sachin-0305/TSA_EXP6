@@ -122,7 +122,7 @@ Standard Deviation of Predicted Data: 0.1648
 
 ### FINAL_PREDICTION:
 <img width="880" height="493" alt="image" src="https://github.com/user-attachments/assets/74c3602a-7e64-4ca5-93bb-ca7a3a568dc0" />
-
-### RESULT:
 <img width="813" height="618" alt="image" src="https://github.com/user-attachments/assets/693e5d4d-2231-43dc-9964-87cfebbbb3c5" />
+### RESULT:
+
 Thus the program run successfully based on the Holt Winters Method model.
